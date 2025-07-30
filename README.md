@@ -12,3 +12,6 @@ The sample includes Airbnb listings for 9 European cities (Amsterdam, Athens, Ba
 
 ## Limitations
 Unknown timeframe of the data.
+
+## Tableau dashboard
+Dashboard [here](https://public.tableau.com/app/profile/tebas.martinez/viz/MiniProject-BIDatatoViz/Dashboard1?publish=yes).
