@@ -18,14 +18,14 @@ The sample includes Airbnb listings for 9 European cities (Amsterdam, Athens, Ba
 ## Limitations
 Unknown timeframe of the data.
 
-## Repo contents.
-- Jupyter Notebooks:
-  - Clean Data.ipynb
-  - Univariate EDA.ipynb
-  - Bivariate EDA.ipynb
+## Repo contents
+- IPYNB, Jupyter Notebook files:
+  - Clean Data.
+  - Univariate EDA.
+  - Bivariate EDA.
 - CSV files:
   - Original dataset.
   - Clean dataset.
-- Image:
+- PNG Image:
   - Intro image.
   
